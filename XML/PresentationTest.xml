@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CBRE SharePoint Automation">
+	<test name="createPresentationTest">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.cbre.Utilities.PreRequsite" />
+			<class name="com.cbre.Test.PresentationTest" />
+		</classes>
+	</test> <!-- createPresentationTest -->
+</suite> <!-- CBRE SharePoint Automation -->

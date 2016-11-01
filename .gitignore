@@ -1,0 +1,11 @@
+/bin
+/test-output
+/Reports
+/.classpath
+/node_modules
+/ExternalLib/Downloads
+/ExternalLib/XML/Testxmls
+/target/
+
+/.settings
+/npm-debug.log
